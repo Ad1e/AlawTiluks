@@ -30,6 +30,7 @@ A modern Flutter mobile application designed to monitor environmental safety thr
 - **Firebase Realtime Database**
 - **Open-Meteo Weather API**
 - **fl_chart** package for graphs
+- **Provider / setState** for state management
 - **Firebase Core & Firebase Options**
 
 ---
