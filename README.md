@@ -30,7 +30,6 @@ A modern Flutter mobile application designed to monitor environmental safety thr
 - **Firebase Realtime Database**
 - **Open-Meteo Weather API**
 - **fl_chart** package for graphs
-- **Provider / setState** for state management
 - **Firebase Core & Firebase Options**
 
 ---
@@ -40,8 +39,8 @@ A modern Flutter mobile application designed to monitor environmental safety thr
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/yourusername/alaw-tiluk-dashboard.git
-cd alaw-tiluk-dashboard
+git clone https://github.com/Ad1e/AlawTiluk.git
+cd AlawTiluk
 ```
 
 2. **Install dependencies:**
@@ -99,4 +98,8 @@ BSIT Students | Alaw Tiluk Safety Project
 ## 📄 License
 
 This project is for academic purposes under Batangas State University TNEU.  
+<<<<<<< HEAD
 All rights reserved © 2025.
+=======
+All rights reserved © 2025.
+>>>>>>> d02e74254e7ac1e41ed1fb27d90da7b37a323afe
