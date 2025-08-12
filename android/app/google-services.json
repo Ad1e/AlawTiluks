@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325506799357",
+    "firebase_url": "https://tiluk-2ce19-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tiluk-2ce19",
+    "storage_bucket": "tiluk-2ce19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325506799357:android:f9895c0d6198cf25eb5094",
+        "android_client_info": {
+          "package_name": "com.example.mazan_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9PWnz23sRY8JEGZTDJ7jbq-_lMije70A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
